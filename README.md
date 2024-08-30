@@ -21,7 +21,7 @@
 ### Библиотеки JavaScript
 + Библиотека готовых решений по созданию адаптивных слайдеров - [Swiper](https://swiperjs.com/)
 
-#### Библиотеки React
+### Библиотеки React
 + Библиотека компонентов - [Chakra UI](https://v2.chakra-ui.com/)
 + Библиотека компонентов - [Material UI](https://mui.com/)
 
